@@ -10,7 +10,6 @@ This repository demonstrates a **circuit breaker** pattern using Node.js and Red
 - [Installation](#installation)
 - [Running the Project](#running-the-project)
 - [How It Works](#how-it-works)
-- [Mermaid Diagram](#mermaid-diagram)
 
 ---
 
